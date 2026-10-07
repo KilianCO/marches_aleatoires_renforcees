@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Figures produites localement
+*.png
+
+# Documentation personnelle, non publiée
+notes/
